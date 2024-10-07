@@ -1,0 +1,104 @@
+header {
+    margin-top: 0px;
+    background-color: #f0efef;
+}
+header .row {
+    margin: 50px 0px;
+}
+header .row h5 {
+    color: #6165D2;
+    font-size: 20px;
+    margin: 40px 0px 10px 0px;
+}
+header h2 {
+    color: #1F2278;
+    font-size: 50px;
+    margin: 30px 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+header button {
+    background-color: #F17732;
+    width: 200px;
+    height: 60px;
+    border: 1px solid #F17732;
+    border-radius: 10px;
+    margin-top: 20px ;
+    transition: .2s ease-in-out;
+}
+header button a {
+    color: #ffff;
+    font-size: 17px;
+}
+header button:hover a {
+    color: #fff;
+    
+}
+header button:hover {
+    opacity: .8;
+}
+header span {
+    display: block;
+    font-size: 200px;
+    color: #ffffff;
+    -webkit-text-stroke: 2px #F17732;
+    animation: mover 1s infinite alternate;
+   
+}
+.header-box {
+    position: relative;
+    max-width: 100%;
+}
+
+header img {
+    max-width: 100%;
+    width: 430px;
+    height: auto;
+    animation: mover 1s infinite alternate;
+    transition: .3 ease all;
+}
+@keyframes mover  {
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+@-webkit-keyframes mover{
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+header svg {
+    color: #1F2278;
+    font-size: 80px;
+    position: absolute;
+    left: 0%;
+    top: 15%;
+    animation: mover 1s infinite alternate ;
+    transform: rotate(45deg) !important;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

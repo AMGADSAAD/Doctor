@@ -1,0 +1,36 @@
+.banner{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    padding: 25px 0px;
+    margin-top: 0;
+    background-color: #E8E9FF;
+}
+.banner h2 {
+    color: #1F2278;
+    font-size: 80px;
+    margin: 20px 0px;
+    font-weight: bold;
+    line-height: 120px;
+}
+.banner li {
+    background-color: #565ACF;
+    border: 1px solid #1F2278;
+    color: #fff ;
+    text-align: center;
+    line-height: 50px;
+    width: 300px;
+    height: 50px;
+    margin: 50px auto;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+.banner li a {
+    color: #fff ; 
+    font-size: 17px;
+    margin: 0px 20px;
+}
+.banner li a svg {
+    margin-right: 10px;
+}

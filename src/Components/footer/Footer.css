@@ -1,0 +1,117 @@
+footer {
+    background-color: #d8d8d8;
+}
+footer .footerlogo{
+    width: auto;
+    height: 40px;
+    margin: 15px 0px;
+  
+}
+footer p{
+    font-size: 17px;
+  
+}
+footer .footer-contact {
+    display: flex;
+}
+footer .footer-icon {
+    margin:10px 20px 0px 0px;
+    width: 40px;
+    height: 40px;
+    background-color: #ffa500;
+    line-height: 40px;
+    border: 1px solid #ffa500;
+    box-sizing: border-box;
+    border-bottom-left-radius:30px ;
+    border-bottom-right-radius:30px ;
+}
+
+footer .footer-icon svg {
+    color: #ffffff;
+    background-color: #ffa500;
+    text-align: center;
+    padding-left:10px ;
+}
+footer .footer-contact h6 {
+    color: #ffa500;
+    font-size: 16px;
+}
+footer .footer-contact h4{
+    color: #1F2278;
+    font-size: 18px;
+    margin-top: 10px;
+}
+footer h2 {
+    color: #1F2278;
+    font-size: 30px;
+    margin: 15px 0px;
+}
+footer ul {
+    margin-top: 20px;
+}
+footer ul li {
+    margin-top: 10px;
+}
+footer ul li a {
+    color: #444444;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+footer form {
+    margin: 15px 0px;
+    background-color: #D8D8D8;
+}
+footer form input {
+    border: 1px solid #ccc;
+    margin: 10px 0px;
+    width: 100%;
+    display: block;
+}
+footer form button {
+    width: 100%;
+    background-color: #ffa500;
+    border: 1px solid #ffa500;
+    color: #ffffff;
+}
+footer ul.social {
+    display: flex;
+
+}
+footer ul.social li {
+    margin-right: 20px;
+}
+footer .footer-button {
+    text-align: center;
+    margin-top: 25px;
+    padding: 10px 0px;
+    border-top: 1px solid #ccc;
+}
+footer .footer-button span {
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
